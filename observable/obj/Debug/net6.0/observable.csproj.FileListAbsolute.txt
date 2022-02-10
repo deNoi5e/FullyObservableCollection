@@ -1,0 +1,15 @@
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/observable
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/observable.deps.json
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/observable.runtimeconfig.json
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/observable.dll
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/ref/observable.dll
+/Users/antonbirukov/RiderProjects/observable/observable/bin/Debug/net6.0/observable.pdb
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.csproj.AssemblyReference.cache
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.AssemblyInfoInputs.cache
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.AssemblyInfo.cs
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.csproj.CoreCompileInputs.cache
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.dll
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/ref/observable.dll
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.pdb
+/Users/antonbirukov/RiderProjects/observable/observable/obj/Debug/net6.0/observable.genruntimeconfig.cache
